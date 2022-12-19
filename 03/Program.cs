@@ -6,5 +6,5 @@ if (Num % 7 == 0 && Num % 23 == 0)
 }
 else
 {
-    Console.WriteLine($"Не кратно);
+    Console.WriteLine("Не кратно");
 }
